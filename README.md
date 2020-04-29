@@ -1,5 +1,7 @@
 # Hashketball
 
+[![Run on Repl.it](https://repl.it/badge/github/fis-classroom-sandbox/advanced-hashes-hashketball)](https://repl.it/github/fis-classroom-sandbox/advanced-hashes-hashketball)
+
 ## Learning Goals
 
 * Practice iterating over nested hashes.
